@@ -1,14 +1,16 @@
-# Fatec Jahu Workshop JS
+Juliano Felipe de Souza Rodrigues
+DSM 3º Semestre
 
-Corrija o código a abaixo.
+Resolução do desafio:
 
-```js
-const x, y = 5
-x + 10
+var x = 5
+const y = 5
+x += 10
 
 function somar () {
   r = x + y
+  return r
 }
 
 console.log(somar())
-```
+![alt text](image.png)
