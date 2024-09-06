@@ -13,4 +13,6 @@ function somar () {
 }
 
 console.log(somar())
+
+
 ![image](https://github.com/user-attachments/assets/0bccef9a-7922-45c3-9ad8-ba3ba84b6473)
